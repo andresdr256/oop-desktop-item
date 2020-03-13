@@ -3,7 +3,7 @@ package oop.desktopitem;
 public class DesktopItem {
     private String name;
 
-    public void DesktopItem(String item){
+    public DesktopItem(String item){
 
     }
 
