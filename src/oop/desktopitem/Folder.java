@@ -13,7 +13,7 @@ public class Folder extends DesktopItem implements Group{
     }
 
     public void Folder(String name){
-
+        super(name);
     }
 
     public void open(){
