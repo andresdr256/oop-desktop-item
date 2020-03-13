@@ -2,9 +2,9 @@ package oop.futbol;
 
 public class SeleccionFutbolHM {
 
-    private int id;
-    private String nombre;
-    private String apellidos;
-    private int edad;
+    protected int id;
+    protected String nombre;
+    protected String apellidos;
+    protected int edad;
 
 }
