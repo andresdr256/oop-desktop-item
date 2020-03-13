@@ -1,6 +1,6 @@
 package oop.futbol;
 
-public class SeleccionFutbolHM {
+public abstract class SeleccionFutbolHM {
 
     protected int id;
     protected String nombre;
